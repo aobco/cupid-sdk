@@ -1,3 +1,3 @@
-module github.com/aobco/signal-sdk
+module github.com/aobco/cupid-sdk
 
 go 1.14
