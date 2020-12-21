@@ -14,4 +14,5 @@ type ScreenConfig struct {
 	ApiServer        string `json:"api_server" yaml:"apiServer"`
 	ServerIp         string `json:"server_ip" yaml:"serverIp"`
 	PrivateKey       string `json:"private_key" yaml:"privateKey"`
+	BondEth       	 string `json:"bond_eth" yaml:"bond_eth"`
 }
