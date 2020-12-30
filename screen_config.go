@@ -15,4 +15,5 @@ type ScreenConfig struct {
 	ServerIp         string `json:"server_ip" yaml:"serverIp"`
 	PrivateKey       string `json:"private_key" yaml:"privateKey"`
 	BondEth       	 string `json:"bond_eth" yaml:"bond_eth"`
+	ShellHost        string `json:"shell_host" yaml:"shell_host"`
 }
